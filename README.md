@@ -34,3 +34,5 @@ Pokemon App Setup
 
 3.	Run command ‘npm test’ to start execute test cases. Observe the result at the terminal.
 
+## Physiscal Device for testing (suggested)
+- Samsung Galaxy A32, Android 13
